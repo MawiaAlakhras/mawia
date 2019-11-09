@@ -1,2 +1,2 @@
-# mawia.github.io
+# mawia
 Personal Website
