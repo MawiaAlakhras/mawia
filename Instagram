@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirecting to Instagram</title>
+    <meta http-equiv="refresh" content="0; url='https://www.instagram.com/mawia_alakhras/'" />
+  </head>
+  <body>
+    <p>Please follow <a href="instagram.com/mawia_alakhras">this link</a></p>
+  </body>
+</html>
